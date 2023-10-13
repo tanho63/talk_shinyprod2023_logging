@@ -4,7 +4,7 @@ A talk given at Shiny in Production 2023 about effective logging strategies for
 production Shiny apps, at both an application-logging level as well as for production
 systems.
 
-Slides: [Google Slides](), [PDF]()
+Slides: [Google Slides](https://docs.google.com/presentation/d/1xt7rEwlkm8Uwtu1DWrrJ9n08V_V77Fxf8aKREPlVzrg/edit), [PDF]()
 
 Video: TBD
 
