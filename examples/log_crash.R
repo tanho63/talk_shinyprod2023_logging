@@ -21,7 +21,7 @@ log_crash <- function(){
     stack_trace = stack_trace,
     #' In the interest of keeping these examples self-contained, I've swapped out
     #' sitrep for sessioninfo::session_info() here but sitrep is designed a little
-    #' more thoughtfully in this case
+    #' more thoughtfully to be included in this sort of log message
 
     # sitrep = sitrep(),
     session_info = sessioninfo::session_info(),
